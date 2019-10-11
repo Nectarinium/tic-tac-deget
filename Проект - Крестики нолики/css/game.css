@@ -1,0 +1,54 @@
+body{
+    margin:0;
+}
+.container-fluid{
+    background: url(../img/a6b714rpaj4z.jpg) center no-repeat / cover;
+    height: 100vh;
+}
+.header__profile{
+
+}
+.header__profile h1{
+    padding-top: 50px;
+    padding-left: 50px;
+    
+}
+.header__content{
+    margin-right: 21%;
+    width: 300px;
+    height: 100%;
+    float: right;
+    background: rgba(26,26,26,0.5);
+    box-shadow: 0px 3px 5px 3px rgba(0,0,0,0.3);
+}
+.logo h2{
+    display: flex;
+    justify-content: center;
+    margin-top:50px;
+    color: #fff; 
+}
+
+footer{
+    background: #0c6ec99d;
+    position: absolute;
+    left:0;
+    bottom:0;
+    width:100%;
+    color:#fff;
+    text-align: center;
+    }
+.social__item{
+    display: inline-block;    
+}
+.fa-vk:before {
+    color:rgb(255, 255, 255);
+}
+.fa-telegram:before {
+    color:rgb(255, 255, 255);
+}
+.fa-whatsapp:before {
+    color:rgb(255, 255, 255);
+}
+.fa-twitter:before {
+    color:rgb(255, 255, 255);
+}
